@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/ariyoshi",
  "yomi": "しきぶのたいふすがわらのありよしあそんしゅう",
  "category": "私家集",
- "description": null,
+ "description": {
+  "kind": "私家集",
+  "era": "平安後期",
+  "author": "菅原在良（1041〜1122）",
+  "desc": "式部大輔の菅原在良の家集。題詠や法華経の品を詠んだ歌などを収める。奥書に、ほかの本が無く校合できなかったとある。"
+ },
  "editions": [
   {
    "pid": "1879517",
@@ -401,6 +406,6 @@
   "poems": 32,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:07:02+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
